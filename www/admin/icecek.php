@@ -55,7 +55,7 @@ if(!isset($_SESSION['admin_kadi'])) {
                                         <td><?php echo $menucek[ 'icecek_fiyat'] ?></td>
                                         
                                        
-                                        <td><a href="netting/islem.php?icecek_id=<?php echo $menucek['icecek_id']; ?>&iceceksil=ok"><button class="btn btn-danger">Sil</button></a></td>
+                                        <td><a href="includes/islem.php?icecek_id=<?php echo $menucek['icecek_id']; ?>&iceceksil=ok"><button class="btn btn-danger">Sil</button></a></td>
                                     </tr>
                                 <?php } ?>
 

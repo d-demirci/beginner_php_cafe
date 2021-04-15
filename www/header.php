@@ -88,16 +88,17 @@ function active($currect_page){
                     </div>
                     <ul>
                         <li class="<?php active('index.php');?>" ><a href="index.php">Ana Sayfa</a></li>
-                        <li class="has-dropdown <?php active('anayemek.php'); active('icecek.php'); active('tatli.php');?>" >
+                        <li class="has-dropdown <?php active('anayemek.php'); active('icecek.php');active('kahvalti.php'); active('tatli.php');?>" >
                             <a href="#">Menüler</a>
                             <ul class="dropdown">
                                 <li><a href="anayemek.php">Ana Yemekler</a></li>
                                 <li><a href="icecek.php">İçecekler</a></li>
+                                <li><a href="kahvalti.php">Kahvaltılar</a></li>
                                 <li><a href="tatli.php">Tatlılar</a></li>
                             </ul>
                         </li>
                         <li class="<?php active('reservation.php');?>"><a  href="reservation.php">Rezervasyon</a></li>
-                        <li class="<?php active('hakkimizde.php');?>"><a  href="hakkimizde.php">Hakkımızda</a></li>
+                        <li class="<?php active('hakkimizda.php');?>"><a  href="hakkimizda.php">Hakkımızda</a></li>
                         <li class="<?php active('iletisim.php');?>"><a  href="iletisim.php">İletİŞİm</a></li>
                     </ul>
                 </div>

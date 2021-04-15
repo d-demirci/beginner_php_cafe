@@ -53,7 +53,7 @@ if(!isset($_SESSION['admin_kadi'])) {
                                         <td><?php echo $menucek[ 'tatli_ad'] ?></td>
                                         <td><?php echo $menucek[ 'tatli_detay'] ?></td>
                                          <td><?php echo $menucek[ 'tatli_fiyat'] ?></td>
-                                        <td><a href="netting/islem.php?tatli_id=<?php echo $menucek['tatli_id']; ?>&tatlilarsil=ok"><button class="btn btn-danger">Sil</button></a></td>
+                                        <td><a href="includes/islem.php?tatli_id=<?php echo $menucek['tatli_id']; ?>&tatlilarsil=ok"><button class="btn btn-danger">Sil</button></a></td>
                                     </tr>
                                 <?php } ?>
 

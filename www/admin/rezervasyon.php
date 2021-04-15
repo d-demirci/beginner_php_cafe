@@ -20,8 +20,8 @@ if(!isset($_SESSION['admin_kadi'])) {
             <div class="col-md-12">
                <!--    Hover Rows  -->
                <div class="panel panel-default">
-                <div class="panel-heading">
-                    
+               <div class="panel-heading">
+                    Rezervasyonlar
                 </div>
                 <div class="panel-body">
                     <div class="table-responsive">

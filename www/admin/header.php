@@ -41,16 +41,10 @@ if(!isset($_SESSION['admin_kadi'])) {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/admin"> Panel Sayfası <br><b style="font-size:10px;">Panele
-                        Hoşgeldiniz</b></a>
-
+                <a class="navbar-brand" href="/admin"> Panel Sayfası <br><b style="font-size:10px;">Corona Cafe
+                    </b></a>
             </div>
-
             <div class="header-right">
-
-
-                <a href="logout.php" class="btn btn-danger" title="Logout"><i
-                        class="fa fa-exclamation-circle fa-2x"></i>Çıkış</a>
-
+                <a href="logout.php" class="btn btn-danger" title="Logout"><i class="fa fa-sign-out">Çıkış</i></a>
             </div>
         </nav>

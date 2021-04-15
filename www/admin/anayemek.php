@@ -55,7 +55,7 @@ if(!isset($_SESSION['admin_kadi'])) {
                                         <td><?php echo $menucek[ 'anayemek_fiyat'] ?></td>
 
                                         <td><a
-                                                href="admin/includes/islem.php?anayemek_id=<?php echo $menucek['anayemek_id']; ?>&anayemeksil=ok"><button
+                                                href="includes/islem.php?anayemek_id=<?php echo $menucek['anayemek_id']; ?>&anayemeksil=ok"><button
                                                     class="btn btn-danger">Sil</button></a></td>
                                     </tr>
                                     <?php } ?>

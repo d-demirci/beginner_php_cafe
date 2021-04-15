@@ -4,8 +4,8 @@ session_start();
 
 try {
      $DBuser = 'root';
-     $DBpass = $_ENV['MYSQL_ROOT_PASSWORD'];
-     $database = 'mysql:dbname=docker;host=database:3306';
+     $DBpass = 'tiger';
+     $database = 'mysql:dbname=cafe;host=database:3306';
      $db = new PDO($database, $DBuser, $DBpass);
      
      

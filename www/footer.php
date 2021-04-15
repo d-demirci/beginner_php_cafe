@@ -7,10 +7,10 @@
                     Yapabileceklerdir Rezervasyon Dışında Misafir Kabul Edilmeyecektir.</p>
             </div>
             <div class="col-md-2 col-md-push-1 fh5co-widget">
-                <h4>Links</h4>
+                <h4>Bağlantılar</h4>
                 <ul class="fh5co-footer-links">
                     <li><a href="index.php">Ana Sayfa</a></li>
-                    <li><a href="hakkimizde.php">Hakkımızda</a></li>
+                    <li><a href="hakkimizda.php">Hakkımızda</a></li>
                     <li><a href="iletisim.php">İletişim</a></li>
                     <li><a href="reservation.php">Rezervasyon</a></li>
                 </ul>

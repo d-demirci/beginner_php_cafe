@@ -26,9 +26,6 @@
                 <a href="icecek.php"><i class="fa fa-flash "></i>İçecek</a>
             </li>
             <li>
-                <a href="tatli.php"><i class="fa fa-flash "></i>Tatlı</a>
-            </li>
-            <li>
                 <a href="kahvalti.php"><i class="fa fa-flash "></i>Kahvaltılar</a>
             </li>
 
