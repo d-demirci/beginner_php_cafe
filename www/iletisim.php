@@ -7,7 +7,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Bizimle iletişime geçin </h2>
 					<p>Ekibimiz olarak size hizmet etmek ve kendimizi gelişitirmek için dilek ve şikayetlernizi bizimle paylaşın</p>
-					<p><a href="mailto:selahattin3452@gmail.com" class="btn btn-primary btn-outline">Bize Ulaş</a></p>
+					<p><a href="mailto:esma1234@gmail.com" class="btn btn-primary btn-outline">Bize Ulaş</a></p>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 align-self-center">
